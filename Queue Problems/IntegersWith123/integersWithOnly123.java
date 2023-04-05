@@ -1,4 +1,10 @@
+/*
 
+Question:
+Given an integer, A. Find and Return first positive A integers in ascending order containing only digits 1, 2, and 3.
+
+NOTE: All the A integers will fit in 32-bit integers.
+ */
 import java.util.*;
 public class integersWithOnly123 {
     public static void main(String [] args){
